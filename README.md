@@ -1,3 +1,3 @@
-# Projects done in Python
+# Python Exercises Web Scraping
 
-A walkthrough of simnple Python projects
+
