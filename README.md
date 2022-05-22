@@ -1,3 +1,3 @@
-# Projects done in Python
+# WAR card game in Python
 
-A walkthrough of simnple Python projects
+WAR card game using OOP application in Python
