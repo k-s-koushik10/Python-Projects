@@ -1,3 +1,3 @@
-# Blog Post Project using Flask Framework
+# Projects done in Python
 
-A Blog post project which includes Registeration forms, Login forms and CRUD operations using packages in Flask 
+Each repositries contain Python projects covering from Basic Exercises, OOP application, Flask Web framework and its Packages
