@@ -1,3 +1,3 @@
-# Projects done in Python
+# Projects done in Flask from Scratch
 
-A walkthrough of simnple Python projects
+A walkthrough of all projects done using Flask web framework
