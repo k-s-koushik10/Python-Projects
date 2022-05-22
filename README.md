@@ -1,2 +1,3 @@
-# Tic-Tac-Toe-Game
-Simple Tic tac Toe game in Python
+# Projects done in Python
+
+A walkthrough of simnple Python projects
