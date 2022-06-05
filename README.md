@@ -1,3 +1,3 @@
-# Projects done in Python
+# Flatmates Bill calculator Flask App
 
-Each branch contain Python projects covering from Basic Exercises, OOP application, Flask Web framework and its Packages
+This application caculates the Bill to be paid by Users in a Flat for a time period.
