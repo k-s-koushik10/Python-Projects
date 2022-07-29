@@ -1,0 +1,13 @@
+Chapter 2 - "Patters for Cleaner Python"
+
+2.1 - Covering a** with assertions
+
+2.2 - Complacent Comma Placement
+
+2.3 - Context Managers and with statement
+
+2.4 - Underscores, Dunders and More
+
+2.5 - String Formatting
+
+2.6 - Zen of Python
