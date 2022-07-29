@@ -1,0 +1,10 @@
+Chapter 3 - "Effective functions"
+
+3.1 - Python's functions are first-class
+
+3.2 - Lambda's are single expression funcs
+
+3.3 - The power of Decorators
+
+3.4 - Fun with *args and **kwargs
+
