@@ -1,2 +1,2 @@
 # Python Tricks by Dan Bader
-Each chapter contains jist of the Python trciks book with examples and comments
+Each chapter contains jist of the Python tricks book with examples and comments
