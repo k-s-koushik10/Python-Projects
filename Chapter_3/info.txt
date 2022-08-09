@@ -8,3 +8,7 @@ Chapter 3 - "Effective functions"
 
 3.4 - Fun with *args and **kwargs
 
+3.5 - Function argument unpacking
+
+3.6 - Nothing to Return here
+
