@@ -1,0 +1,17 @@
+Chapter 4 - "Classes and OOP"
+
+4.1 - Object comparison 'is' vs '=='
+
+4.2 - String conversion (Every Class needs a __repr__)
+
+4.3 - Defining your own Exception Classes
+
+4.4 - Cloning objects for Fun and Profit
+
+4.5 - Abstract Base Classes keep Inheritance in Check
+
+4.6 - What NamedTuples are good for
+
+4.7 - Class VS Instance variables pitfalls
+
+4.8 - Instance, Class and Static Methods Demystified
